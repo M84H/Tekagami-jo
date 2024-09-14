@@ -1,5 +1,5 @@
-import Mirador from 'mirador/dist/es/src/index';
-import examplePlugin from './plugins/example_plugin';
+//import Mirador from 'mirador/dist/es/src/index';
+//import examplePlugin from './plugins/example_plugin';
 
 const config = {
   id: 'mirador-viewer',
@@ -23,7 +23,7 @@ const config = {
   },
   windows: [
     {
-      manifestId: 'http://localhost:8080/2666.json',
+      manifestId: 'http://M84H.github.io/Tekagami-jo2/666.json',
     }
   ],
 };
