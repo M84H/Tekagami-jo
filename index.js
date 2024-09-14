@@ -8,10 +8,20 @@ const config = {
       "currentItem_1/2": "Right",
       "currentItem_2/2": "Left"
     }
-
+    jp: {
+      "currentItem_1/2": "右",
+      "currentItem_2/2": "左"
+    }
   },
-  theme: { direction: 'rtl' },
   selectedTheme: "dark",
+  theme: { 
+    direction: 'rtl' 
+  },
+  language: "en"
+  availableLanguages: {
+    en: 'English',
+    ja:'日本語'
+  },
   window: {
     sideBarPanel: "info",
     defaultView:'book',
