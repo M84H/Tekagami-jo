@@ -18,7 +18,7 @@ const config = {
   language: 'en',
   availableLanguages: {
     en: 'English',
-    ja:'日本語'
+    ja:'日本語',
   },
   window: {
     sideBarPanel: "info",
