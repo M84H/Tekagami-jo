@@ -25,7 +25,8 @@ const config = {
         fontSize:"0.878em",
         letterSpacing:"0.02em",
         lineHeight:"1.75em",
-        fontWeight:500
+        fontWeight:500,
+        color: rgb(112, 112, 112),
       },
     }, 
   },
