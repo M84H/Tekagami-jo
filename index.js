@@ -17,16 +17,15 @@ const config = {
     direction: 'ltr',
     typography: {
       body1:{
-        fontSize: "1rem",
-        letterSpacing:"0em",
-        lineHeight:"1.6em",
-      },
-      subtitle2:{
-        fontSize:"0.878em",
+        fontSize: "0.878em",
         letterSpacing:"0.02em",
         lineHeight:"1.75em",
+      },
+      subtitle2:{
+        fontSize:"1rem",
+        letterSpacing:"0em",
+        lineHeight:"1.6em",
         fontWeight:500,
-        color: rgb(112, 112, 112),
       },
     }, 
   },
