@@ -1,5 +1,5 @@
-//import Mirador from 'mirador/dist/es/src/index';
-//import examplePlugin from './plugins/example_plugin';
+//imported Mirador config from 'mirador/dist/es/src/index';
+//imported examplePlugin from './plugins/example_plugin';
 
 const config = {
   id: 'mirador-viewer',
@@ -44,6 +44,6 @@ const config = {
   ],
 };
 
-const plugins = [];
+const plugins = []; 
 
-Mirador.viewer(config, plugins);
+Mirador.viewer(config, plugins); //initializes Mirador with the stated configuration and plugins and tells it to fetch the stated manifest.
