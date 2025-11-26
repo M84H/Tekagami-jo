@@ -3,7 +3,7 @@
 
 {
     "@context": ["http://iiif.io/api/search/1/context.json", "http://iiif.io/api/extension/navplace/context.json", "http://iiif.io/api/presentation/3/context.json"],
-    "id": "https://collections.library.yale.edu/manifests/15489239",
+    "id": "https://m84h.github.io/Tekagami-jo/manifest.json",
     "type": "Manifest",
     "label": {
         "none": ["Tekagamijō"]
