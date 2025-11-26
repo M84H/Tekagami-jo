@@ -35,18 +35,11 @@ const config = {
     en: 'English',
     ja:'日本語',
   },
-  window: {
-    sideBarPanel: "info",
-    defaultView:'book',
-      views: [
-        {key:"single",behaviors:["individuals","paged"]}, 
-        {key:"book",behaviors:["individuals"]}, 
-        {key:"gallery"} 
-      ],
-  },
   windows: [
     {
       manifestId: 'https://M84H.github.io/Tekagami-jo/manifest.json',
+      defaultView: 'book',       // opens in book view
+      sideBarPanel: 'info'       // info tab open by default
     }
   ],
 };
