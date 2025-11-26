@@ -8,6 +8,8 @@
     "label": {
         "none": ["Tekagamijō"]
     },
+    "viewingDirection": "right-to-left",
+    "behavior": ["paged"],
     "homepage": [{
         "id": "https://collections.library.yale.edu/catalog/15489239",
         "type": "Text",
