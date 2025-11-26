@@ -10,13 +10,22 @@
     },
     "viewingDirection": "right-to-left",
     "behavior": ["paged"],
-    "homepage": [{
+    "homepage": [
+        {
         "id": "https://collections.library.yale.edu/catalog/15489239",
         "type": "Text",
         "format": "text/html",
         "label": {
-            "en": ["Yale Digital Collections page"]
-        }
+            "en": ["Yale Digital Collections page"],
+            "jp": ["イエールのデジタルコレクション"]}
+    },
+        {
+        "id": "https://m84h.github.io/Tekagami-jo/",
+        "type": "Text",
+        "format": "text/html",
+        "label": {
+            "en": ["Sample Rendering of Tekagamijo"],
+            "jp": ["アルバムの表情の例"]}    
     }],
     "requiredStatement": {
         "label": {
