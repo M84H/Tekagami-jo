@@ -37,7 +37,7 @@ const config = {
   },
   windows: [
     {
-      manifestId: 'https://M84H.github.io/Tekagami-jo/manifest.json',
+      manifestId: 'https://m84h.github.io/Tekagami-jo/manifest.json',
       defaultView: 'book',       // opens in book view
       sideBarPanel: 'info'       // info tab open by default
     }
