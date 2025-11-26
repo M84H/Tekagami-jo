@@ -1,0 +1,2 @@
+Note 11/25/2025: The Json file manifest.json was pulled from Yale Library Catalog: https://collections.library.yale.edu/catalog/15489239, beautified using https://beautifier.io/, and then edited to be a new manifest at the website m84h.github.io/Tekagami-jo
+
