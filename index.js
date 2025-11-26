@@ -46,7 +46,7 @@ const config = {
   },
   windows: [
     {
-      manifestId: 'https://M84H.github.io/Tekagami-jo/2666.json',
+      manifestId: 'https://M84H.github.io/Tekagami-jo/manifest.json',
     }
   ],
 };
